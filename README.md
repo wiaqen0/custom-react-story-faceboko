@@ -2,7 +2,7 @@
 
 ## Cài đặt thôi nào
 
-Truy cập đường link **edge://extensions/** hoặc **chrome://extensions/** nếu bạn xài Chrome. Nhấn vào Load unpacked như hình dưới nếu bạn xài Edge, còn Chrome thì tôi không biết vì tui có xài Chrome đâu.
+Truy cập đường link **edge://extensions/** hoặc **chrome://extensions/** nếu bạn xài Chrome. Nhấn vào Load unpacked như hình dưới nếu bạn xài Edge, còn Chrome thì tôi không biết vì tui có xài Chrome đâu :>
 
 ![](https://i.imgur.com/wOB1TOt.png)
 
