@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Additional Emoji React Story Facebook",
+  "description": "Additional Emoji React Story Facebook",
+  "version": "1.0.0",
+  "icons": {
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.facebook.com/*"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "db/emoji.json"
+  ],
+  "permissions": [
+    "tabs",
+    "https://www.facebook.com/*"
+  ]
+}
