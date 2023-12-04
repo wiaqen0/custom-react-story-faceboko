@@ -51,7 +51,7 @@ function loadModal(EMOJI_LIST) {
         reactContainer.appendChild(btnReact);
         reactContainer.appendChild(emojiGroup);
         // Check this if your code is not working, find the footer and paste its classes to this 
-        var FooterClass = "x11lhmoz x78zum5 x1q0g3np xsdox4t x10l6tqk xtzzx4i xwa60dl xl56j7k xdpfuu1"
+        var FooterClass = "x11lhmoz x78zum5 x1q0g3np xsdox4t x10l6tqk xtzzx4i xwa60dl xl56j7k xtuxyv6"
         const storiesFooter = document.getElementsByClassName(FooterClass);
         if (storiesFooter.length > 0) {
             clearInterval(timeoutCheckStoriesFooter);
